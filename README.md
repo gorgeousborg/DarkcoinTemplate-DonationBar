@@ -5,5 +5,6 @@ This is a template for adding a donations bar to a dark sponsored donations site
 The code is straight forward and hopefully easy to implement. One only needs to call from php
 
 echo donate_block("Xv5xZvghgNTJKVYiHBNaacE5EfbjFD1A8K",2000000);
-
+ the first parameter is the donation address and the second is an integer that specifies the amount of drk wanted to raise
+ 
 Their is a css file included but feel free toi change all or anything
